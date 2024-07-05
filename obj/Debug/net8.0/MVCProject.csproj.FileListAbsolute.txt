@@ -28,3 +28,4 @@ C:\Users\harsh.naik\Desktop\MVCProject\obj\Debug\net8.0\refint\MVCProject.dll
 C:\Users\harsh.naik\Desktop\MVCProject\obj\Debug\net8.0\MVCProject.pdb
 C:\Users\harsh.naik\Desktop\MVCProject\obj\Debug\net8.0\MVCProject.genruntimeconfig.cache
 C:\Users\harsh.naik\Desktop\MVCProject\obj\Debug\net8.0\ref\MVCProject.dll
+C:\Users\harsh.naik\Desktop\MVCProject\obj\Debug\net8.0\MVCProject.sourcelink.json
